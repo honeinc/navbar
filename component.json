@@ -1,0 +1,13 @@
+{
+    "name": "navbar",
+    "version": "0.0.1",
+    "scripts": [
+        "index.js"
+    ],
+    "styles": [
+        "style.css"
+    ],
+    "dependencies": {
+        "component/emitter": "*"
+    }
+}
