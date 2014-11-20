@@ -1,4 +1,4 @@
-## Sidebar
+## Navbar
 
 This is a navbar that controls differnt sets of content. It is very simple by nature. 
 [![Build Status](https://travis-ci.org/honeinc/navbar.svg?branch=master)](https://travis-ci.org/honeinc/navbar)
