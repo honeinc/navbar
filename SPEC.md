@@ -1,3 +1,4 @@
+```javascript
 /* 
         this is an api spec for our new topbar, I feel it should be pretty 
         configurable. I also feel that if done correctly we can use it to 
@@ -91,3 +92,4 @@ nav.render = function( content, callback ) {
         eg. new Error( 'error message' );
 */
 }
+```
