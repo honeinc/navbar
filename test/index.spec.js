@@ -1,4 +1,5 @@
-var Navbar = require( 'navbar' );
+var Navbar = require( '..' ),
+    expect = require( 'expect.js' );
 
 describe('Navbar', function() {
     
